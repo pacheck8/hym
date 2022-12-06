@@ -1,0 +1,227 @@
+.navbar{
+    background-color: transparent;
+    width:1350px;
+    height: 60px;
+    display: flex;
+    margin:auto
+}
+.caja1{
+    background-color: transparent;
+    width:450px;
+    height: 40px;
+    display: flex;
+    justify-content:flex-start;
+   
+    
+}
+.caja{
+    background-color: transparent;
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    display: flex;
+    font-size: xx-small;
+    text-align: left;
+}
+.caja2{
+        background-color: transparent;
+        width:450px;
+        height: 60px;
+        display: flex;
+        justify-content:center;
+
+}
+.logo{
+    width: 160px;
+    height: 60px;
+    background:url(./eda6460f07dcec2a864498ab223deec9.jpg) no-repeat;
+    background-size:contain;
+    display: flex;
+}
+.caja3{
+    background-color: transparent;
+    width:450px;
+    height: 60px;
+    display: flex;
+    justify-content:flex-start;
+
+}
+.navbar2{
+    background-color: transparent;
+    width:1350px;
+    height: 60px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+.navbar3{
+    background-color: transparent;
+    width:800px;
+    height: 60px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+}
+.item1{
+    background-color: transparent;
+    height: 40px;
+    padding: 10px;
+    display: flex;
+    font-size: small;
+    text-align: left;
+    
+}
+.item1:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.info{
+    width: 800px;
+    height: 60px;
+    background-color:transparent;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    
+
+}
+.a{
+    background-color: transparent;
+    width: 400px;
+    height: 60px;
+    display: flex;
+    margin: 2px;
+}
+.navidad{
+    background-color: transparent;
+    width: 800px;
+    height: 250px;
+    display: flex;
+    margin:0 auto;
+    margin-top: 3px;
+    justify-content: center;
+    background:url(./navidad.jpg) ;
+    background-size:cover;
+
+
+}
+.navidad1{
+ 
+    display: flex;
+    width: 400px;
+    height: 250px;
+    flex-direction: column;
+    font-style: italic;
+    color: white;
+    align-items: stretch;
+    justify-content: center;
+    margin-top: 3px;
+
+
+}
+.navidad2{
+    width: 400px;
+    height:84px;
+    background-color:transparent;
+    display: flex;
+    align-items: center;
+    
+
+}
+.navidad2a{
+    width: 400px;
+    height:40px;
+    background-color:transparent;
+    margin-top: 44px;
+    font-size: 2ch;
+    align-items: center;
+    display: flex;
+}
+.botom{
+    width: 100px;
+    height: 20px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    color: black;
+    justify-content: center;
+    margin: 30px;
+}
+
+.moda{
+    background-color: beige;
+    width: 800px;
+    height: 500px;
+    margin-top: 3px;
+    margin: auto;
+    display: flex;
+    margin-top: 20px;
+}
+.moda1{
+    background-color: aqua;
+    width: 400px;
+    height: 500px;
+    background:url(./lapiz.jpg)no-repeat;
+    background-size: cover;
+    display: flex;
+}
+.moda2{
+    background:url(./hmgoepprod.jpg)no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 500px;
+    display: flex;
+}
+.fiesta{
+    background-color: aquamarine;
+    width: 800px;
+    height: 200px;
+    margin: 0px auto;
+    margin-top: 20px;
+    display: flex;      
+    background: url(./fondo\ fiesta.jpg);
+    background-size: cover;
+    flex-direction: column;
+}
+.fiesta1{
+    width: 800px;
+    height: 65px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    font-size:  30px;
+    font-weight: 100;
+    
+    
+}
+.fiesta2{
+    width: 800px;
+    height: 35px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;   
+}
+.botom2{
+    min-width: 20px;
+    height: 15px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    color: black;
+    justify-content: center;
+    margin:5px;
+    padding: 5px;
+    font-size:20px;
+    
+}
+.fiesta3{
+    width: 800px;
+    height: 65px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    font-size:  30px;
+    font-weight: 100;
+}
